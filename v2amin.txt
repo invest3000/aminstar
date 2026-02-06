@@ -86,6 +86,11 @@ vless://98d677be-b14b-4c14-a96b-4a39a3be645a@chatgpt.com:443?encryption=none&sec
 vless://d082b5e0-2435-4599-b935-d2c2b70beb67@chatgpt.com:443?encryption=none&security=tls&sni=purple-mrvpn294x.mrvpnandamir294.workers.dev&alpn=h2&fp=chrome&type=ws&host=purple-mrvpn294x.mrvpnandamir294.workers.dev&path=%2F#%E2%9A%A1%EF%B8%8F%20Amin%2087%20%E2%9A%A1%EF%B8%8F
 vless://d641a83f-e461-4c49-bacd-ada58d0907e8@chatgpt.com:443?encryption=none&security=tls&sni=mbkjdtjxojujzelgg44bgjb17rxwitgvdkhpq2lvgbrrfmg6mplpos1sbmydwl6.ahfxfyaqo.workers.dev&alpn=h2&fp=chrome&type=ws&host=mbkjdtjxojujzelgg44bgjb17rxwitgvdkhpq2lvgbrrfmg6mplpos1sbmydwl6.ahfxfyaqo.workers.dev&path=%2F#%E2%9A%A1%EF%B8%8F%20Amin%2088%20%E2%9A%A1%EF%B8%8F
 vless://73f15c26-5545-492f-bb67-a4ef3737a060@chatgpt.com:443?encryption=none&security=tls&sni=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&alpn=http%2F1.1&fp=chrome&type=ws&host=zVN6pn2Es0J9d6S0UdbWm5wxLYZp9AK7.973A1F0DD9.wORKErS.DEV&path=%2FeyJqdW5rIjoiODhWQThCY3U0NEltOVVMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#%E2%9A%A1%EF%B8%8F%20Amin%2089%20%E2%9A%A1%EF%B8%8F
+vless://aaf33108-c211-4ecf-a2e1-1cbb837dc92f@chatgpt.com:443?encryption=none&security=tls&sni=amin.aminaamina.workers.dev&fp=randomized&type=ws&host=amin.aminaamina.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%A5%F0%9F%94%A5%20%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%20%F0%9D%9F%AD%20%F0%9F%94%A5%F0%9F%94%A5
+vless://aaf33108-c211-4ecf-a2e1-1cbb837dc92f@chatgpt.com:80?encryption=none&security=none&type=ws&host=amin.aminaamina.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%A5%F0%9F%94%A5%20%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%20%F0%9D%9F%AE%20%20%F0%9F%94%A5%F0%9F%94%A5
+vless://aaf33108-c211-4ecf-a2e1-1cbb837dc92f@tgju.org:443?encryption=none&security=tls&sni=amin.aminaamina.workers.dev&fp=randomized&type=ws&host=amin.aminaamina.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%A5%F0%9F%94%A5%20%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%20%F0%9D%9F%AF%20%F0%9F%94%A5%F0%9F%94%A5
+vless://aaf33108-c211-4ecf-a2e1-1cbb837dc92f@ip.sb:443?encryption=none&security=tls&sni=amin.aminaamina.workers.dev&fp=randomized&type=ws&host=amin.aminaamina.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%A5%F0%9F%94%A5%20%F0%9D%97%94%F0%9D%97%A0%F0%9D%97%9C%F0%9D%97%A1%20%F0%9D%9F%B0%20%F0%9F%94%A5%F0%9F%94%A5
+
 
 
 
