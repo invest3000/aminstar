@@ -1,1 +1,1 @@
-
+vless://3072e4d5-838d-4227-85b2-ac5a224f78ed@185.21.11.91:443?encryption=none&security=tls&sni=aminam.bit30.aa.am&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=aminam.bit30.aa.am&path=%2Fvoip%2Fproxyip%3D185.112.82.28%2C95.182.99.65%2C46.243.6.117%2C217.177.44.252%2C77.90.63.208%2C185.242.113.75%2C81.95.4.189%2C149.248.199.173#%E2%9C%A8%E2%9C%A8%20%20Amin%201%20%E2%9C%A8%E2%9C%A8-clone
